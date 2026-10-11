@@ -57,7 +57,7 @@ Whether you are scaling an enterprise SaaS platform, monetizing LLM tokens in AI
 
 ## 🔓 Open-Source GitHub Projects
 
-Below is a curated list of open-source subscription billing engines, event metering platforms, payment orchestrators, and invoicing software. Repositories are **sorted in descending order by GitHub Star Count**, each featuring a social-style badge linking directly to the repository's stargazers page.
+Below is a curated list of open-source subscription billing engines, event metering platforms, payment orchestrators, and invoicing software. Repositories are **sorted in descending order by GitHub Stars_Count**, each featuring a social-style badge linking directly to the repository's stargazers page.
 
 - 🔀 **[Hyperswitch](https://github.com/juspay/hyperswitch)** <a href="https://github.com/juspay/hyperswitch/stargazers"><img src="https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white" alt="Hyperswitch Stars"/></a>  
   **Open-source payment orchestration platform from Juspay**, Apache-2.0 licensed. Connects to 120+ payment processors through a single API. Features intelligent routing, revenue recovery via retries, PCI-compliant card vault, and automated reconciliation.
@@ -131,7 +131,7 @@ Contributions are welcome and appreciated! To add a new platform or update an ex
 
 1. 🍴 **Fork the Repository**.
 2. 📝 **Edit `README.md`** following the existing table or list format.
-3. 🔍 **Verify Details**: Ensure descriptions are factual, link to official sites or repositories, and include exact license / star count details.
+3. 🔍 **Verify Details**: Ensure descriptions are factual, link to official sites or repositories, and include exact license / Stars_Count details.
 4. 🚀 **Submit a Pull Request** with a short summary of changes.
 
 Also check out our meta-list: [Awesome-Awesome-Awesome](https://github.com/ishandutta2077/Awesome-Awesome-Awesome).
